@@ -1,5 +1,6 @@
-a = 5# На руке 5 пальцев
-b = 11
+for i in range(8):
+    print("cucu")
+a,b = 9,8
 if a>b:
     print ('a>b')
 elif b>a:
